@@ -1,0 +1,8 @@
+# Python
+fisherlink_env/
+__pycache__/
+*.pyc
+
+# General
+.DS_Store
+*.log
