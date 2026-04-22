@@ -1,4 +1,3 @@
-
 # FisherLink — AI Powered Fishermen Safety System
 
 FisherLink is an AI-powered coastal safety system for real-time fishermen vessel monitoring.
